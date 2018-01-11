@@ -22,7 +22,12 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+
+
+```ruby
+Hmachael::CreateToken.new(hmac_config: {  });    
+
+```
 
 ## Development
 
