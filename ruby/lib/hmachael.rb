@@ -1,4 +1,5 @@
-require "ruby/version"
+require "hmachael/version"
+require "hmachael/hmac"
 
 module Hmachael
 end

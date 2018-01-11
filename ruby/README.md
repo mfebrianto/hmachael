@@ -23,6 +23,7 @@ Or install it yourself as:
 ## Usage
 
 
+data need to have timestamp
 
 ```ruby
 Hmachael::CreateToken.new(hmac_config: {  });    
